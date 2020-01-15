@@ -1,4 +1,4 @@
-# petProjectJava
+# testProjectJava
 
 **1.** Your DB needs to hold two main objects – **Contacts** and
 Organizations. Each Contact can work in several organizations
